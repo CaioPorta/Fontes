@@ -1,0 +1,8 @@
+1 - Transformador de 127/220 para 12V e 1A
+4 - Diodos 1N4007 usei este mas pode usar o 1N4004 ou 1N4001 que funciona.
+1 - L7812
+1 - Capacitor de 2200µF 35V eletrolítico
+1 - Capacitor de 100µF 35V eletrolítico
+2 - Capacitores de 100nF cerâmico (104)
+
+https://www.youtube.com/watch?v=NXjdSKBK8hU
